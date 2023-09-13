@@ -1,0 +1,226 @@
+{
+  "version": 2,
+  "dgSpecHash": "LsKil8KAiTy9mu9WrxTvr6JZk/wrxS7fAt+ADJ/Fp/JdS+cHIh4obgyT2ervU1xMFzaT/0mRQxH0QWG6VHTFzg==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\logan\\Google Drive\\Projects\\C#\\EOSmartUpdate\\EOSmartUpdate\\EOSmartUpdate.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\logan\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
+    "C:\\Users\\logan\\.nuget\\packages\\microsoft.netcore.platforms\\1.0.1\\microsoft.netcore.platforms.1.0.1.nupkg.sha512",
+    "C:\\Users\\logan\\.nuget\\packages\\microsoft.netcore.targets\\1.0.1\\microsoft.netcore.targets.1.0.1.nupkg.sha512",
+    "C:\\Users\\logan\\.nuget\\packages\\newtonsoft.json\\9.0.1\\newtonsoft.json.9.0.1.nupkg.sha512",
+    "C:\\Users\\logan\\.nuget\\packages\\system.collections\\4.0.11\\system.collections.4.0.11.nupkg.sha512",
+    "C:\\Users\\logan\\.nuget\\packages\\system.diagnostics.debug\\4.0.11\\system.diagnostics.debug.4.0.11.nupkg.sha512",
+    "C:\\Users\\logan\\.nuget\\packages\\system.diagnostics.tools\\4.0.1\\system.diagnostics.tools.4.0.1.nupkg.sha512",
+    "C:\\Users\\logan\\.nuget\\packages\\system.dynamic.runtime\\4.0.11\\system.dynamic.runtime.4.0.11.nupkg.sha512",
+    "C:\\Users\\logan\\.nuget\\packages\\system.globalization\\4.0.11\\system.globalization.4.0.11.nupkg.sha512",
+    "C:\\Users\\logan\\.nuget\\packages\\system.io\\4.1.0\\system.io.4.1.0.nupkg.sha512",
+    "C:\\Users\\logan\\.nuget\\packages\\system.io.filesystem\\4.0.1\\system.io.filesystem.4.0.1.nupkg.sha512",
+    "C:\\Users\\logan\\.nuget\\packages\\system.io.filesystem.primitives\\4.0.1\\system.io.filesystem.primitives.4.0.1.nupkg.sha512",
+    "C:\\Users\\logan\\.nuget\\packages\\system.linq\\4.1.0\\system.linq.4.1.0.nupkg.sha512",
+    "C:\\Users\\logan\\.nuget\\packages\\system.linq.expressions\\4.1.0\\system.linq.expressions.4.1.0.nupkg.sha512",
+    "C:\\Users\\logan\\.nuget\\packages\\system.objectmodel\\4.0.12\\system.objectmodel.4.0.12.nupkg.sha512",
+    "C:\\Users\\logan\\.nuget\\packages\\system.reflection\\4.1.0\\system.reflection.4.1.0.nupkg.sha512",
+    "C:\\Users\\logan\\.nuget\\packages\\system.reflection.emit\\4.0.1\\system.reflection.emit.4.0.1.nupkg.sha512",
+    "C:\\Users\\logan\\.nuget\\packages\\system.reflection.emit.ilgeneration\\4.0.1\\system.reflection.emit.ilgeneration.4.0.1.nupkg.sha512",
+    "C:\\Users\\logan\\.nuget\\packages\\system.reflection.emit.lightweight\\4.0.1\\system.reflection.emit.lightweight.4.0.1.nupkg.sha512",
+    "C:\\Users\\logan\\.nuget\\packages\\system.reflection.extensions\\4.0.1\\system.reflection.extensions.4.0.1.nupkg.sha512",
+    "C:\\Users\\logan\\.nuget\\packages\\system.reflection.primitives\\4.0.1\\system.reflection.primitives.4.0.1.nupkg.sha512",
+    "C:\\Users\\logan\\.nuget\\packages\\system.reflection.typeextensions\\4.1.0\\system.reflection.typeextensions.4.1.0.nupkg.sha512",
+    "C:\\Users\\logan\\.nuget\\packages\\system.resources.resourcemanager\\4.0.1\\system.resources.resourcemanager.4.0.1.nupkg.sha512",
+    "C:\\Users\\logan\\.nuget\\packages\\system.runtime\\4.1.0\\system.runtime.4.1.0.nupkg.sha512",
+    "C:\\Users\\logan\\.nuget\\packages\\system.runtime.extensions\\4.1.0\\system.runtime.extensions.4.1.0.nupkg.sha512",
+    "C:\\Users\\logan\\.nuget\\packages\\system.runtime.handles\\4.0.1\\system.runtime.handles.4.0.1.nupkg.sha512",
+    "C:\\Users\\logan\\.nuget\\packages\\system.runtime.interopservices\\4.1.0\\system.runtime.interopservices.4.1.0.nupkg.sha512",
+    "C:\\Users\\logan\\.nuget\\packages\\system.runtime.serialization.primitives\\4.1.1\\system.runtime.serialization.primitives.4.1.1.nupkg.sha512",
+    "C:\\Users\\logan\\.nuget\\packages\\system.text.encoding\\4.0.11\\system.text.encoding.4.0.11.nupkg.sha512",
+    "C:\\Users\\logan\\.nuget\\packages\\system.text.encoding.extensions\\4.0.11\\system.text.encoding.extensions.4.0.11.nupkg.sha512",
+    "C:\\Users\\logan\\.nuget\\packages\\system.text.regularexpressions\\4.1.0\\system.text.regularexpressions.4.1.0.nupkg.sha512",
+    "C:\\Users\\logan\\.nuget\\packages\\system.threading\\4.0.11\\system.threading.4.0.11.nupkg.sha512",
+    "C:\\Users\\logan\\.nuget\\packages\\system.threading.tasks\\4.0.11\\system.threading.tasks.4.0.11.nupkg.sha512",
+    "C:\\Users\\logan\\.nuget\\packages\\system.threading.tasks.extensions\\4.0.0\\system.threading.tasks.extensions.4.0.0.nupkg.sha512",
+    "C:\\Users\\logan\\.nuget\\packages\\system.xml.readerwriter\\4.0.11\\system.xml.readerwriter.4.0.11.nupkg.sha512",
+    "C:\\Users\\logan\\.nuget\\packages\\system.xml.xdocument\\4.0.11\\system.xml.xdocument.4.0.11.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package runtime.any.System.Collections. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "runtime.any.System.Collections",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1/win-x86"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package runtime.win.System.Diagnostics.Debug. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "runtime.win.System.Diagnostics.Debug",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1/win-x86"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package runtime.any.System.Globalization. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "runtime.any.System.Globalization",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1/win-x86"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package runtime.any.System.IO. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "runtime.any.System.IO",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1/win-x86"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package runtime.any.System.Reflection. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "runtime.any.System.Reflection",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1/win-x86"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package runtime.any.System.Reflection.Extensions. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "runtime.any.System.Reflection.Extensions",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1/win-x86"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package runtime.any.System.Resources.ResourceManager. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "runtime.any.System.Resources.ResourceManager",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1/win-x86"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package runtime.any.System.Runtime. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "runtime.any.System.Runtime",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1/win-x86"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package runtime.win.System.Runtime.Extensions. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "runtime.win.System.Runtime.Extensions",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1/win-x86"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package runtime.any.System.Text.Encoding. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "runtime.any.System.Text.Encoding",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1/win-x86"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package runtime.any.System.Text.Encoding.Extensions. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "runtime.any.System.Text.Encoding.Extensions",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1/win-x86"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package runtime.any.System.Threading.Tasks. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "runtime.any.System.Threading.Tasks",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1/win-x86"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package runtime.any.System.Reflection.Primitives. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "runtime.any.System.Reflection.Primitives",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1/win-x86"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package runtime.any.System.Runtime.InteropServices. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "runtime.any.System.Runtime.InteropServices",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1/win-x86"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package runtime.win.System.IO.FileSystem. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "runtime.win.System.IO.FileSystem",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1/win-x86"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package runtime.any.System.Diagnostics.Tools. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "runtime.any.System.Diagnostics.Tools",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1/win-x86"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package runtime.any.System.Runtime.Handles. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "runtime.any.System.Runtime.Handles",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1/win-x86"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.NETCore.App.Runtime.win-x86. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.NETCore.App.Runtime.win-x86",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.WindowsDesktop.App.Runtime.win-x86. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.WindowsDesktop.App.Runtime.win-x86",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.AspNetCore.App.Runtime.win-x86. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.AspNetCore.App.Runtime.win-x86",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

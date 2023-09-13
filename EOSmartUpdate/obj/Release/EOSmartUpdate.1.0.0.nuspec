@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>EOSmartUpdate</id>
+    <version>1.0.0</version>
+    <authors>EOSmartUpdate</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="Newtonsoft.Json" version="9.0.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework=".NETCoreApp3.1">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\logan\Google Drive\Projects\C#\EOSmartUpdate\EOSmartUpdate\bin\Release\netcoreapp3.1\EOSmartUpdate.runtimeconfig.json" target="lib\netcoreapp3.1\EOSmartUpdate.runtimeconfig.json" />
+    <file src="C:\Users\logan\Google Drive\Projects\C#\EOSmartUpdate\EOSmartUpdate\bin\Release\netcoreapp3.1\EOSmartUpdate.dll" target="lib\netcoreapp3.1\EOSmartUpdate.dll" />
+  </files>
+</package>

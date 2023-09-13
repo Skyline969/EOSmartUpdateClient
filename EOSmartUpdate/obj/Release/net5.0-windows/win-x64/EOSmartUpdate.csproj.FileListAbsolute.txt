@@ -1,0 +1,40 @@
+C:\Users\logan\Google Drive\Projects\C#\EOSmartUpdate\EOSmartUpdate\bin\Release\net5.0-windows\win-x64\EOSmartUpdate.exe
+C:\Users\logan\Google Drive\Projects\C#\EOSmartUpdate\EOSmartUpdate\bin\Release\net5.0-windows\win-x64\EOSmartUpdate.deps.json
+C:\Users\logan\Google Drive\Projects\C#\EOSmartUpdate\EOSmartUpdate\bin\Release\net5.0-windows\win-x64\EOSmartUpdate.runtimeconfig.json
+C:\Users\logan\Google Drive\Projects\C#\EOSmartUpdate\EOSmartUpdate\bin\Release\net5.0-windows\win-x64\EOSmartUpdate.runtimeconfig.dev.json
+C:\Users\logan\Google Drive\Projects\C#\EOSmartUpdate\EOSmartUpdate\bin\Release\net5.0-windows\win-x64\EOSmartUpdate.dll
+C:\Users\logan\Google Drive\Projects\C#\EOSmartUpdate\EOSmartUpdate\bin\Release\net5.0-windows\win-x64\ref\EOSmartUpdate.dll
+C:\Users\logan\Google Drive\Projects\C#\EOSmartUpdate\EOSmartUpdate\bin\Release\net5.0-windows\win-x64\EOSmartUpdate.pdb
+C:\Users\logan\Google Drive\Projects\C#\EOSmartUpdate\EOSmartUpdate\bin\Release\net5.0-windows\win-x64\Newtonsoft.Json.dll
+C:\Users\logan\Google Drive\Projects\C#\EOSmartUpdate\EOSmartUpdate\obj\Release\net5.0-windows\win-x64\EOSmartUpdate.frmMain.resources
+C:\Users\logan\Google Drive\Projects\C#\EOSmartUpdate\EOSmartUpdate\obj\Release\net5.0-windows\win-x64\EOSmartUpdate.Properties.Resources.resources
+C:\Users\logan\Google Drive\Projects\C#\EOSmartUpdate\EOSmartUpdate\obj\Release\net5.0-windows\win-x64\EOSmartUpdate.csproj.GenerateResource.cache
+C:\Users\logan\Google Drive\Projects\C#\EOSmartUpdate\EOSmartUpdate\obj\Release\net5.0-windows\win-x64\EOSmartUpdate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logan\Google Drive\Projects\C#\EOSmartUpdate\EOSmartUpdate\obj\Release\net5.0-windows\win-x64\EOSmartUpdate.AssemblyInfoInputs.cache
+C:\Users\logan\Google Drive\Projects\C#\EOSmartUpdate\EOSmartUpdate\obj\Release\net5.0-windows\win-x64\EOSmartUpdate.AssemblyInfo.cs
+C:\Users\logan\Google Drive\Projects\C#\EOSmartUpdate\EOSmartUpdate\obj\Release\net5.0-windows\win-x64\EOSmartUpdate.csproj.CoreCompileInputs.cache
+C:\Users\logan\Google Drive\Projects\C#\EOSmartUpdate\EOSmartUpdate\obj\Release\net5.0-windows\win-x64\EOSmartUpdate.csproj.CopyComplete
+C:\Users\logan\Google Drive\Projects\C#\EOSmartUpdate\EOSmartUpdate\obj\Release\net5.0-windows\win-x64\EOSmartUpdate.dll
+C:\Users\logan\Google Drive\Projects\C#\EOSmartUpdate\EOSmartUpdate\obj\Release\net5.0-windows\win-x64\ref\EOSmartUpdate.dll
+C:\Users\logan\Google Drive\Projects\C#\EOSmartUpdate\EOSmartUpdate\obj\Release\net5.0-windows\win-x64\EOSmartUpdate.pdb
+C:\Users\logan\Google Drive\Projects\C#\EOSmartUpdate\EOSmartUpdate\obj\Release\net5.0-windows\win-x64\EOSmartUpdate.genruntimeconfig.cache
+D:\Git\EOSmartUpdateClient\EOSmartUpdate\bin\Release\net5.0-windows\win-x64\EOSmartUpdate.exe
+D:\Git\EOSmartUpdateClient\EOSmartUpdate\bin\Release\net5.0-windows\win-x64\EOSmartUpdate.deps.json
+D:\Git\EOSmartUpdateClient\EOSmartUpdate\bin\Release\net5.0-windows\win-x64\EOSmartUpdate.runtimeconfig.json
+D:\Git\EOSmartUpdateClient\EOSmartUpdate\bin\Release\net5.0-windows\win-x64\EOSmartUpdate.runtimeconfig.dev.json
+D:\Git\EOSmartUpdateClient\EOSmartUpdate\bin\Release\net5.0-windows\win-x64\EOSmartUpdate.dll
+D:\Git\EOSmartUpdateClient\EOSmartUpdate\bin\Release\net5.0-windows\win-x64\ref\EOSmartUpdate.dll
+D:\Git\EOSmartUpdateClient\EOSmartUpdate\bin\Release\net5.0-windows\win-x64\EOSmartUpdate.pdb
+D:\Git\EOSmartUpdateClient\EOSmartUpdate\bin\Release\net5.0-windows\win-x64\Newtonsoft.Json.dll
+D:\Git\EOSmartUpdateClient\EOSmartUpdate\obj\Release\net5.0-windows\win-x64\EOSmartUpdate.frmMain.resources
+D:\Git\EOSmartUpdateClient\EOSmartUpdate\obj\Release\net5.0-windows\win-x64\EOSmartUpdate.Properties.Resources.resources
+D:\Git\EOSmartUpdateClient\EOSmartUpdate\obj\Release\net5.0-windows\win-x64\EOSmartUpdate.csproj.GenerateResource.cache
+D:\Git\EOSmartUpdateClient\EOSmartUpdate\obj\Release\net5.0-windows\win-x64\EOSmartUpdate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\EOSmartUpdateClient\EOSmartUpdate\obj\Release\net5.0-windows\win-x64\EOSmartUpdate.AssemblyInfoInputs.cache
+D:\Git\EOSmartUpdateClient\EOSmartUpdate\obj\Release\net5.0-windows\win-x64\EOSmartUpdate.AssemblyInfo.cs
+D:\Git\EOSmartUpdateClient\EOSmartUpdate\obj\Release\net5.0-windows\win-x64\EOSmartUpdate.csproj.CoreCompileInputs.cache
+D:\Git\EOSmartUpdateClient\EOSmartUpdate\obj\Release\net5.0-windows\win-x64\EOSmartUpdate.csproj.CopyComplete
+D:\Git\EOSmartUpdateClient\EOSmartUpdate\obj\Release\net5.0-windows\win-x64\EOSmartUpdate.dll
+D:\Git\EOSmartUpdateClient\EOSmartUpdate\obj\Release\net5.0-windows\win-x64\ref\EOSmartUpdate.dll
+D:\Git\EOSmartUpdateClient\EOSmartUpdate\obj\Release\net5.0-windows\win-x64\EOSmartUpdate.pdb
+D:\Git\EOSmartUpdateClient\EOSmartUpdate\obj\Release\net5.0-windows\win-x64\EOSmartUpdate.genruntimeconfig.cache

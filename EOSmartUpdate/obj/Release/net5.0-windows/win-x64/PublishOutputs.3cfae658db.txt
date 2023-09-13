@@ -1,0 +1,2 @@
+D:\Git\EOSmartUpdateClient\EOSmartUpdate\bin\Release\netcoreapp5\publish\EOSmartUpdate.pdb
+D:\Git\EOSmartUpdateClient\EOSmartUpdate\bin\Release\netcoreapp5\publish\EOSmartUpdate.exe

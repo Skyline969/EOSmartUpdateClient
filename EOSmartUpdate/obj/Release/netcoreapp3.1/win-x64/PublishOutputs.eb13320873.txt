@@ -1,0 +1,2 @@
+C:\Users\logan\Google Drive\Projects\C#\EOSmartUpdate\EOSmartUpdate\bin\Release\netcoreapp3.1\publish\EOSmartUpdate.pdb
+C:\Users\logan\Google Drive\Projects\C#\EOSmartUpdate\EOSmartUpdate\bin\Release\netcoreapp3.1\publish\EOSmartUpdate.exe
